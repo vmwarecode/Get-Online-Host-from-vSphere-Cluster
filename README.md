@@ -1,1 +1,0 @@
-# Get-Online-Host-from-vSphere-Cluster
